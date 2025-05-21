@@ -1,2 +1,2 @@
-# portfolio
-portfolio testing
+# Portfolio Website
+Im just doing my own things
