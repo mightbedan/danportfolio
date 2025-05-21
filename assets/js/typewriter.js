@@ -2,7 +2,7 @@
 
 var i = 0;
 var txt = "Hey There! Nice to meet you, I'm Dan.";
-var txt_abt = "Thanks for that! My name is Dan and I'm a software engineer/game developer. I will be pursuing a Bachelors in Computer Science this fall";
+var txt_abt = "Thanks for that! My name is Dan and I'm a software engineer/game developer.";
 var speed = 60;
 
 window.onload = function typeWriter() {
